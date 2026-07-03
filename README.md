@@ -1,11 +1,10 @@
-# Codeforces 
+# Codeforces
 
 This repository is a dedicated workspace where I publish my codeforces solutions.
 
 My primary focus is on solving problem sets systematically, sharpening my mathematical logic, and building elite problem-solving habits.
 
 ---
-
 
 ## Repository Structure
 
